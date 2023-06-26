@@ -1,7 +1,7 @@
 # Week One
-A Good First Program
-Comments and Pound Characters
-Numbers and Maths
-Variables and Names
-More Variables and Printing 
-Strings and Text
+A Good First Program,
+Comments and Pound Characters,
+Numbers and Maths,
+Variables and Names,
+More Variables and Printing,
+Strings and Text.
