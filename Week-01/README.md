@@ -14,3 +14,10 @@ Printing, Printing and printing,
 What Was That (Escape Sequences),
 Asking Questions
 Prompting People.
+
+# Day Three
+Parameters, Unpacking, Variables,
+Prompting and Passing,
+Reading Files,
+Reading and Writing Files,
+More Files
